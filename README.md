@@ -41,3 +41,11 @@ Contains tests for :
 * User logging in to codepad with valid credentials
 * User logging in to codepad with invalid credentials
 * User logout
+
+### codepad_comment_test.py
+
+output in image_outputs/codepad_comment.png
+
+Contains tests for :
+* Redirection when commenting on codepad paste without logging in first
+* Successful Commenting on codepad paste after login
